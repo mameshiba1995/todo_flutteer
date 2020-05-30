@@ -1,6 +1,6 @@
 # todoflutteer
 
-A new Flutter application.
+A new Flutter test application.
 
 ## Getting Started
 
